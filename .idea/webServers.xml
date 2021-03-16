@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="860f3288-103c-495f-b8bf-4c6e7eea5ec8" name="147.175.98.129" url="http://147.175.98.129/tina_alternative">
+        <fileTransfer rootFolder="/home/xrendekm/public_html/tina_alternative" accessType="SFTP" host="147.175.98.129" port="22" sshConfigId="3c5d93c4-7019-4e18-822f-d4d779814cbc" sshConfig="xrendekm@147.175.98.129:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
